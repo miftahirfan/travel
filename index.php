@@ -14,7 +14,7 @@
         </div>
         
         <div class="content">
-        	<h3>Content</h3>
+        	<h3>BLABALA</h3>
         </div>
         
         <div class="footer">
