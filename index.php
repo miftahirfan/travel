@@ -10,7 +10,7 @@
         </div>
         
         <div class="slide">
-        	<h2> Slide </h2>
+        	<h2>EDIT BY MIFTA</h2>
         </div>
         
         <div class="content">
